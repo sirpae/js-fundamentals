@@ -60,17 +60,17 @@ As you might expect, anything that you can usually do with numbers you can do in
 
 ```javascript
 10 + 10 //addition
->>> 30
+>>> 20
 ``` 
 
 ```javascript
 10 - 10 //subtraction
->>> 10
+>>> 0
 ``` 
 
 ```javascript
-10 - 10 //multiplication
->>> 10
+10 * 10 //multiplication
+>>> 100
 ``` 
 
 ```javascript
