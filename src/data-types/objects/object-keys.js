@@ -36,6 +36,7 @@ book.dimensions = undefined
 
 //book not containing asin key
 delete book.isbn.asin
+
 // Do not edit this exported object
 module.exports = {
   name: name,
