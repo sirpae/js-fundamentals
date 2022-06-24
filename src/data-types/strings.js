@@ -5,6 +5,7 @@ const secondName = 'Smith'
 
 // TODO: Update the code using Javascript string operations and the variables above so that the tests pass.
 
+
 // Set this variable to firstName and secondName concatenated
 const fullName = firstName + ' ' + secondName
 
